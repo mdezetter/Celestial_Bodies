@@ -1,2 +1,2 @@
 # Celestial_Bodies
-Free Code Camp Celestial Bodies Repository
+Built a SQL database of Celestial Bodies
